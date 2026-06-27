@@ -37,7 +37,7 @@ Compared to the original Ganjoor database, this project includes:
 Import the SQL file into your MySQL server:
 
 ```bash
-mysql -u username -p database_name < beytas.sql
+mysql -u username -p database_name < beytas_beytas.sql
 ```
 
 or use phpMyAdmin, MySQL Workbench, or any compatible database management tool.
